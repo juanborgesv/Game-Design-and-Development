@@ -16,3 +16,8 @@
 Create all the animations and manage the animator to animate the character as expected.
 
 **Thoughts**: The Unity forum is not as good as I thought, I had two simple questions and did not get an answer, so I'd rather stick with Stackoverflow to look for answers.
+
+## Day 3: January 4, 2019
+**Today's Progress:** I've done many things since the last time I write the *Day 2 Log*. I adjust every SeriliazeField of the CharacterController script so the character movement felt right. I created several scripts, a DeathZone script that is used to kill the player when the character falls to the DeathZone, a FallingTrap script that is used in random platforms or ground tiles to make the player fall with the ground as the player steps on it. Finished the first stage of the tutorial, design the second stage of the tutorial level so the player knows how and when crouch. Create an eagle GameObject, animate it, and create its script so it moves between two points, and set some falling traps, so the player reinforces jumping, and crouching to avoid the eagle. I set several checkpoints so it moves the camera and sets a respawn position to the player. Finally I created the pause menu and pause button, it is very basic, it only has a resume option but it should display much more. 
+ 
+**Thoughts**: There are so many things I have to work on, such as TextMesh Pro, ProBuilder, and Particle System. They are useful not only for this project, but for the whole learning experience.
