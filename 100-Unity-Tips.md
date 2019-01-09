@@ -40,6 +40,27 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 
 **19. HideInspector**: Use [HideInspector] to hide public variables in Inspector.
 
-**20. FormerlySerializeAs**: Use [FormerlySerializeAs("example")] to rename a variable name in the Inspector.
+**20. Rename a variable and keep the value**: Use [FormerlySerializeAs("example")] to rename a variable name in the Inspector.
+
+**21. Folder shortcuts**: Drag and drop a folder out of Unity into to the Unity's project tab.
+
+**22. Focus**: Select a GameObject and press F to focus on it.
+
+**23. Focus Follow**: Press F twice to follow the GameObject around.
+
+**24. Align with view**: Match the game camera to the scene view by selecting the camera in the hierarchy and pressing Ctrl+Shift+F.
+
+**25. CompareTag function**: Avoid using "==" when comparing two tags. It is more performant to use other.CompareTag("Player").
+
+**26. Empty objects as dividers**: You can use empty GameObjects as dividers in your hierarchy to help you organize your objects.
+
+**27. Find objects with Component**: If you want to find all objects with a particular component use the Search field in the hierarchy.
+
+**28. Find assets of type**: In project's search field t:scene shows all scenes and t:textures shows only textures and so on.
+
+**29. Easily move lines**: Use Alt+Arrow Up and Down to quickly move lines without copy and paste.
+
+**30. Documentation shortcut**: Quickly navigate to the documentation for a component by hitting the book in the upper right corner.
+
 
 
