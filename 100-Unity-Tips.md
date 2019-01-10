@@ -1,6 +1,6 @@
 ## 100 Unity Tips
 
-This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM&t=97s).
+This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM).
 
 **1. Selection Outline**: Gizmos > Selection Outline
 
@@ -62,5 +62,22 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 
 **30. Documentation shortcut**: Quickly navigate to the documentation for a component by hitting the book in the upper right corner.
 
+**31. Documentation History**: Check [this](https://docs.unity3d.com/Manual/ManualVersions.html) if you want to see all the documentation for previous Unity versions.
 
+**32. Expand/Collapse All**: Hold down Alt while expanding an object to expand all child objects aswell, the same applies to collapsing.
 
+**33. Changing Editor Layout**: You can customize unity as much as you want, move around windows as you please and then save your settings as a new layout.
+
+**34. Change Editor Colors**: By going to Edit > Preferences > Colors you can adjust editor colors, including the background color of the Scene view.
+
+**35. Tinting the editor in playmode**: You can also make the editor change its color when playing the game by adjusting the playmode tint.
+
+**36. Toggle Scene Effects**: You can choose what effects to show in the scene view by going under the landscape drop-down at the top.
+
+**37. Menu Item**: If you want to be able to quickly call a method, use the Menu Item attribute to assign a function to a new Menu Item at the top of the Unity Editor.
+
+**38. Context Menu Item**: Use the Context Menu Item attribute to do the same thing but adding the method to the context menu instead.
+
+**39. Hiding Layers**: Split up your object into layers to easily be able to toggle them on and off in the scene.
+
+**40. Locking Layers**: You can also lock layers to avoid accidentally moving objects that you don't want to select.
