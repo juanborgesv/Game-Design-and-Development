@@ -81,3 +81,23 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 **39. Hiding Layers**: Split up your object into layers to easily be able to toggle them on and off in the scene.
 
 **40. Locking Layers**: You can also lock layers to avoid accidentally moving objects that you don't want to select.
+
+**41. Layer sub menus**: When creating layers or tags you can use "/" to create submenus to make it easy to organize your project.
+
+**42. Global C# Defines**: Use Project Settings > Player > Other Settings > Scripting Define Symbols to add global C# defined to your project. This can be used to ommit or include code when compiling 
+
+**43. Color Picking**: You can use the Color Picker to get color outside of Uniy itself
+
+**44. Copy/Paste Colors**: Copy-Paste works on colors.
+
+**45. Maximising Windows**: Use Shift+Space to maximise a window.
+
+**46. Serialize Structs and Classes**: Use [System.Serializable] attribute to be able to see and edit classes and structs in the inspector.
+
+**47. Collision Matrix**: Change which layers collide with which by going to Project Settings > Physics 2D > Layer Collision Matrix.
+
+**48. Collider Interaction Matrix**: [This](http://docs.unity3d.com/Manual/CollidersOverview.html) is how different colliders interact when all are in the same layer.
+
+**49. Math in Inspector**: You can do math calculations inside of number fields in the inspector, no need to bring out the calculator.
+
+**50. Locking the Inspector**: Unity allows you to lock the inspector, especially useful if you open a second inspector.
