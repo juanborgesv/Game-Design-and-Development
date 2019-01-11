@@ -101,3 +101,25 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 **49. Math in Inspector**: You can do math calculations inside of number fields in the inspector, no need to bring out the calculator.
 
 **50. Locking the Inspector**: Unity allows you to lock the inspector, especially useful if you open a second inspector.
+
+**51. Inpector Debug Mode**: The drop-down menu at the top of the inspector has a debug mode option, when enabled this will display all variables including private ones.
+
+**52. Debug Log highlights an object**: When using Debug.Log you can add a GameObject as a second attribute, this will highlight a GameObject in the scene when clicking on the Log.
+
+**53. Styling in Debug Logs**: You can use simple styling in debug logs to style up your console messages, e.g., Debug.Log("<color=red>I'M RED</color>" + "I'm not"); 
+
+**54. Plotting debug values**: Sometimes when you have a variable that changes over time it would be great if you could see it on a graph, luckily we can use animation curves to achieve this fairly easy using [this](https://youtu.be/thA3zv0IoUM?t=366) code snippet.
+
+**55. Add component shortcut**: You can quickly add a new script by pressing Add Component, typing the name of the script, and hitting enter twice.
+
+**56. Importing save files**: Unity can read saved files from programs such as Photoshop or Blender and Maya, no need to export to another format first.
+
+**57. Keep photoshop layers**: To keep individual Photoshop layers when importing to into Unity simply save as a PSP file instead, this does require you to install the PSD importer from the Package Manager.
+
+**58. Gizmos**: Assign gizmos to objects using the inspector.
+
+**59. Custom Gizmos**: You can choose your own custom gizmos by selecting "other".
+
+**60. Show/Hide Gizmos**: Enable and disable gizmos categorically from the scene view.
+
+**61. Show/Hide Gizmos in Game view**: You can do this for the game view aswell at the top.
