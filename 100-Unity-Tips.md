@@ -123,3 +123,21 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 **60. Show/Hide Gizmos**: Enable and disable gizmos categorically from the scene view.
 
 **61. Show/Hide Gizmos in Game view**: You can do this for the game view aswell at the top.
+
+**62. Stringbuilder**: Concatenating like this: Debug.Log("He" + "llo" + " Wor" + "ld!") creates a lot of strings and memory garbage, use [StringBuilder](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder?view=netframework-4.7.2) for concatenating multiple more effectively.
+
+**63. ScriptableObjects**: Create your own editor objects using scriptable objects, this is great for organizing game data like items or achievements.
+
+**64. Script changes while playing**: In the preferences window you can choose what happens when the script changes while playing, very useful since a lot of times weird stuff happens when you just continue playing.
+
+**65. Custom Windows**: You can easily extend the unity editor (: EditorWindow) to add your own custom windows with tools and overviews.
+
+**66. Custom Inspectors**: You can simply create a custom inspector, this way you can change how you display components in the editor to add buttons, display more information and so on.
+
+**67. ToolsV**: You can use the QWERNT keys to quickly swap between tools.
+
+**68. RectTransform in 3D**: You can use the RectTransform to scale 3D objects, it is perfect to scale from bounds instead of around the pivot.
+
+**69. Snapping**: Holding Ctrl/Cmd while moving an object snaps to position to full world units.
+
+**70. Snapping Options**: For more snapping options go to Edit > Snap Settings.
