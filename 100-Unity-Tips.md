@@ -141,3 +141,23 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 **69. Snapping**: Holding Ctrl/Cmd while moving an object snaps to position to full world units.
 
 **70. Snapping Options**: For more snapping options go to Edit > Snap Settings.
+
+**71. Vertex Grab**: Hold V to grab and drag objects by their vertices, as well snap them to other vertices.
+
+**72. Managed Assemblies**: Reduce C# compile time by creating your own managed assemblies, right click in the project, select assembly definition, and move it to the folder you want. Now all scripts inside that folder will be compiled to this assembly. 
+
+**73. WaitForSeconds & yield**: yield return new WaitForSeconds(1f); will never stop if Time.timeScale is set to zero, to change this use WaitForSecondsRealtime instead.
+
+**74. Cash variables**: You can store references to components that you are going to be using a lot in private variables to save on performance, this is called caching
+
+**75. Never use Camera.main**: It literally does this: GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>(); behind the scenes.
+
+**76. Performant non changing strings**: If you are using a lot of non-changing strings in your code, you can use "static readonly" string to avoid allocating a bit of memory each time.
+
+**77. Range attribute**: [Range](https://unity3d.com/es/learn/tutorials/topics/tips/show-public-variables-sliders-rangemin-max) allows you to create a slider that goes between the min and max value
+
+**78. Space attribute**: [Space](https://docs.unity3d.com/ScriptReference/SpaceAttribute.html) adds an empty space.
+
+**79. Header attribute**: [Header](https://docs.unity3d.com/ScriptReference/HeaderAttribute.html) creates a tiny bit of text above some fields in the inspector.
+
+**80. Tooltip attribute**: [Tooltip](https://docs.unity3d.com/ScriptReference/TooltipAttribute.html) changes the tooltip when hovering over a variable.
