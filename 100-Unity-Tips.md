@@ -154,7 +154,7 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 
 **76. Performant non changing strings**: If you are using a lot of non-changing strings in your code, you can use "static readonly" string to avoid allocating a bit of memory each time.
 
-**77. Range attribute**: [Range](https://unity3d.com/es/learn/tutorials/topics/tips/show-public-variables-sliders-rangemin-max) allows you to create a slider that goes between the min and max value
+**77. Range attribute**: [Range](https://unity3d.com/es/learn/tutorials/topics/tips/show-public-variables-sliders-rangemin-max) allows you to create a slider that goes between the min and max value.
 
 **78. Space attribute**: [Space](https://docs.unity3d.com/ScriptReference/SpaceAttribute.html) adds an empty space.
 
