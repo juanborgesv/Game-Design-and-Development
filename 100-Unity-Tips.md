@@ -1,6 +1,6 @@
 ## 100 Unity Tips
 
-This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM).
+This tips were given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM).
 
 **1. Selection Outline**: Gizmos > Selection Outline
 
@@ -161,3 +161,23 @@ This tips where given by [Brackeys](https://www.youtube.com/user/Brackeys) on [t
 **79. Header attribute**: [Header](https://docs.unity3d.com/ScriptReference/HeaderAttribute.html) creates a tiny bit of text above some fields in the inspector.
 
 **80. Tooltip attribute**: [Tooltip](https://docs.unity3d.com/ScriptReference/TooltipAttribute.html) changes the tooltip when hovering over a variable.
+
+**81. Asset Store in Editor**: You can visit the asset store by using a web browser or within the editor.
+
+**82. Merge scenesV**: You can drag and drop one scene onto another to merge them.
+
+**83. Duplicate**: Easily duplicate an object Ctrl/Cmd + D.
+
+**84. Duplicate array items**: You can also use the same command to array items.
+
+**85. Editor presets**: You can use presets to save configurations for your components. Use the slider in the corner to choose between presets or create a new one.
+
+**86. Iterate over child objects**: To loop over all direct children of an object use [this](https://youtu.be/thA3zv0IoUM?t=550) code snippet.
+
+**87. Change object order in hierarchy**: Use transform.SetSiblingIndex(mIndex); to change the order of objects in the hierarchy by script.
+
+**88. Save selections**: Save your current selection by going Edit > Selection, and choosing a number. You can then load back the selection from the same menu.
+
+**89. Regions**: Use regions to create collapsable sections in your code, for things like Singleton, Variables, Functions. Watch out this is a slippery slope that leads to very long scripts.
+
+**90. Pause Editor through code**: You can pause the editor at a specific moment during runtime by setting: EditorApplication.isPaused = true;
