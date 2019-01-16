@@ -181,3 +181,23 @@ This tips were given by [Brackeys](https://www.youtube.com/user/Brackeys) on [th
 **89. Regions**: Use regions to create collapsable sections in your code, for things like Singleton, Variables, Functions. Watch out this is a slippery slope that leads to very long scripts.
 
 **90. Pause Editor through code**: You can pause the editor at a specific moment during runtime by setting: EditorApplication.isPaused = true;
+
+**91. Frame Skip**: The Frame Skip button, next to pause can be used to proceed one frame at a time.
+
+**92. Stats window**: Use the Game Stats Window to for a quick overview over your game statistics.
+
+**93. Profiler**: For more in-depth look at performance use the [Profiler](https://docs.unity3d.com/Manual/Profiler.html) window.
+
+**94. Measure function in Profiler**: You can use [this](https://youtu.be/thA3zv0IoUM?t=590) code snippet to measure the execution of a function in the Profiler.
+
+**95. Undocking the preview**: Get a closer look of what you are inspecting by right clicking the upper part of the preview to undock it, and it will then act as any other window.
+
+**96. Mute your game**: If you need a quick break of your game's audio, simply hit the mute button in the game view.
+
+**97. Invoke repeating**: Monobehavior that invoked repeating does not stop repeating on deactivated game objects.
+
+**98. Frame Debugger**: Go to Window > Frame debugger to see a breakdown of how each frame is rendered.
+
+**99. Physics Debugger**: You can visualize physics shapes using the Physics Debugger. It is great for spotting errors in colliders.
+
+**100. Don't make an MMORPG**: "Seriously, don't."
