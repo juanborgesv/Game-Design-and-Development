@@ -1,6 +1,8 @@
+# How to capture Device Logs on Android related to an Unity application.
+
 JeffDUnity3D, Unity Technologies. (2017). "For troubleshooting and debugging, it is often very helpful to capture the device logs. The device logs contain information about the status of a running application on the device and any errors encountered. The IAP Engineering team requires logs for open issues. It is assumed here that you have an Android device configured with Developer options and attached to a PC with a USB cable." Source: https://forum.unity.com/threads/how-to-capturing-device-logs-on-android.528680/
 
-The steps below show the process on a Mac, if you are interested on the Windows system process, check the link quoted previously.
+The steps below show the process on a Mac, if you are interested on the Windows system process, check [this](https://forum.unity.com/threads/how-to-capturing-device-logs-on-android.528680/) link.
 
 ### Mac
   1. Find the location of the Android SDK in Unity by going to Unity > Preferences (Shortcut: , + Cmd) > External Tools.
