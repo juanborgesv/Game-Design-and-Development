@@ -1,6 +1,6 @@
-## 100 Unity Tips
+# 100 Unity Tips!
 
-This tips were given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM).
+The following  tips were given by [Brackeys](https://www.youtube.com/user/Brackeys) on [this video](https://www.youtube.com/watch?v=thA3zv0IoUM). If you prefer reading instead of watching the tips, this might what you are looking for.
 
 **1. Selection Outline**: Gizmos > Selection Outline
 
