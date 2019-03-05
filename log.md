@@ -34,6 +34,11 @@ After debugging I realize that the OnApplicationQuit method was not being called
 **Thoughts**: I learned a lot of things, and I there is still a lot more to learn. One of the things that always has bother me was Static variables, because I have never used them with complete awareness of what it is doing and why did I need it, the few times I have implemented it was because it was already in the script or I was told to use it with no explanation, but right when I needed It suddenly came to my mind, the "lives" variables was not being modified, and by declaring it as static I could accomplish it.
 
 ## Day 5: March 1, 2019
-**Today's Progress:** I have advanced a lot, the tutorial level is almost "complete". Pause, Game Over, and Level Complete menu are practically finished. I added a Blur effect when the game is paused which I still have to check how it affects the device's performance, I've seen many posts about it saying that achieving that effect is tricky, and using the Blur script from [Legacy Image Effects](https://assetstore.unity.com/packages/essentials/legacy-image-effects-83913) or Post Processing is not the best way to solve it.
+**Today's Progress:** I have advanced a lot, the tutorial level is almost "complete". Pause, Game Over, and Level Complete menu are practically finished. I added a Blur effect when the game is paused which I still have to check how it affects the device's performance, I've seen many posts about it saying that achieving that effect is tricky, and using the Blur script from [Post Processing](https://docs.unity3d.com/Manual/PostProcessingOverview.html) is not the best way to solve it.
  
 **Thoughts**: Once I checked little details on the menus and comment some lines of code. I'll start working on my own Sprites in order to replace the [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) ones.
+
+## Day 6: March 2, 2019
+**Today's Progress:** I watched [this Brackeys video](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=906s) and read [this tutorial](https://gamedevelopment.tutsplus.com/tutorials/how-to-save-and-load-your-players-progress-in-unity--cms-20934) about saving and reading data. Both share really good concepts and very complete information. The positive thing is that my version was not identical to their sample codes since I am using a different type of data, so I had to think how to optimize and apply what I learned with what I had to work on. Finally the game saves the score and it also tells if it is a new High Score or not.
+ 
+**Thoughts**: 
