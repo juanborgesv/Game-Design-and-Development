@@ -38,7 +38,12 @@ After debugging I realize that the OnApplicationQuit method was not being called
  
 **Thoughts**: Once I checked little details on the menus and comment some lines of code. I'll start working on my own Sprites in order to replace the [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) ones.
 
-## Day 6: March 2, 2019
+## Day 6: March 4, 2019
 **Today's Progress:** I watched [this Brackeys video](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=906s) and read [this tutorial](https://gamedevelopment.tutsplus.com/tutorials/how-to-save-and-load-your-players-progress-in-unity--cms-20934) about saving and reading data. Both share really good concepts and very complete information. The positive thing is that my version was not identical to their sample codes since I am using a different type of data, so I had to think how to optimize and apply what I learned with what I had to work on. Finally the game saves the score and it also tells if it is a new High Score or not.
+ 
+**Thoughts**: 
+
+## Day 7: March 7, 2019
+**Today's Progress:** GameOver menu was not feeling right, it had everything I wanted (Game over text, a dumb game over message, a distance bar, and some buttons). I sketched different designs and sticked with a more simpler one; I adjust some things, delete some other things, and work with the Animation and Animator a little to make it look as expected.
  
 **Thoughts**: 
