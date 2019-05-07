@@ -4,7 +4,7 @@ The following  tips were given by [Brackeys](https://www.youtube.com/user/Bracke
 
 **1. Selection Outline**: Gizmos > Selection Outline
 
-**2. Pixel Perfect Camera**: First, make sure to install 2D Pixel Perfect on Package Manager and use it to get super crisp pixel art.
+**2. Pixel Perfect Camera**: Make sure to install 2D Pixel Perfect on Package Manager and use it to get super crisp pixel art.
 
 **3. Sprite Y-based Sorting**: You can sort sprites based on its Y value going on Project Settings > Graphics > Transparency Sort Mode > Custom Axis (Y value to 1).
 
@@ -22,7 +22,7 @@ The following  tips were given by [Brackeys](https://www.youtube.com/user/Bracke
 
 **10. Auto-statements**: Double press tab to auto complete statements such as if and for.
 
-**11. Coroutine(ception**: Calling a coroutine inside another coroutine.
+**11. Coroutine(ception)**: Calling a coroutine inside another coroutine.
 
 **12. Animate script paramaters**: Animation window is capable to animate pretty much everything, this includes parameters in your own custom scripts.
 
