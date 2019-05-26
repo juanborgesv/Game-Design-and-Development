@@ -47,3 +47,9 @@ After debugging I realize that the OnApplicationQuit method was not being called
 **Today's Progress:** GameOver menu was not feeling right, it had everything I wanted (Game over text, a dumb game over message, a distance bar, and some buttons). I sketched different designs and sticked with a more simpler one; I adjust some things, delete some other things, and work with the Animation and Animator a little to make it look as expected.
  
 **Thoughts**: 
+
+## Day 8: May 25, 2019
+**Today's Progress:** A lot of things have been changed and others improved. I created the third level and today I started creating the traps that will make it difficult and fun. There is something important that I learned today that is probably going to happen in the future, I have to be careful when I call Coroutines in the Update method, because ["When you start a coroutine, an instance of it is created and starts running. If you start the same coroutine again, another instance is created and runs independently of the other, and so on."](https://answers.unity.com/questions/309613/calling-startcoroutine-multiple-times-seems-to-sta.html).
+ 
+**Thoughts**: Happy to be working in the game again, sometimes I feel discourage about the project but as the frog says in the tutorial level: "Keep trying and don't lose the hope".
+
