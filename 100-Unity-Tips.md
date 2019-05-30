@@ -40,7 +40,7 @@ The following  tips were given by [Brackeys](https://www.youtube.com/user/Bracke
 
 **19. HideInspector**: Use [HideInspector] to hide public variables in Inspector.
 
-**20. Rename a variable and keep the value**: Use [FormerlySerializeAs("example")] to rename a variable name in the Inspector.
+**20. Rename a variable and keep the value**: Use [FormerlySerializeAs("example")] to rename a variable name in the Inspector (using UnityEngine.Serialization).
 
 **21. Folder shortcuts**: Drag and drop a folder out of Unity into to the Unity's project tab.
 
