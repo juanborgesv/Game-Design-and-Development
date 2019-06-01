@@ -53,3 +53,10 @@ After debugging I realize that the OnApplicationQuit method was not being called
  
 **Thoughts**: Happy to be working in the game again, sometimes I feel discourage about the project but as the frog says in the tutorial level: "Keep trying and don't lose the hope".
 
+## Day 9: June 1, 2019
+**Today's Progress:** I finished a Shake Camera script. I watched a video by Brackeys and changed the code a little bit so it shakes as long as the rolling circle is active. 
+
+I was having a lot of issues with the falling trap script, the gameobject attached wasn't getting disabled by the deathzone. I asked in the Sykoo Discord Server and someone replied "the reason is not triggering with the kinematic body is becuse kinematic bodies don't fire Collision events
+They do fire Trigger events though". I changed OnCollisionEnter2D to OnTriggerEnter2D and problem solved.
+ 
+**Thoughts**: 
