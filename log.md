@@ -60,3 +60,8 @@ I was having a lot of issues with the falling trap script, the gameobject attach
 They do fire Trigger events though". I changed OnCollisionEnter2D to OnTriggerEnter2D and problem solved.
  
 **Thoughts**: 
+
+## Day 10: June 17, 2019
+**Today's Progress:** I created a nice scrolling panel that is shown when the Options button is clicked. One thing important to keep in mind is the use of [Rect Mask 2D](https://docs.unity3d.com/Manual/script-RectMask2D.html), it "restricts the child elements to the rectangle of the parent element".
+ 
+**Thoughts**: 
